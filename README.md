@@ -38,15 +38,16 @@ project artifact :https://github.com/lillianxhub/network-BRNA/
 | Network       | New Network                  | https://docs.google.com/document/d/1RlKOzi6_1D_aMJoCc1CtLWyhGcinBsCK11HxKJa_fEw/edit?usp=sharing   |
 | Group Work    | Sprint Alpha + 1             | https://drive.google.com/drive/folders/1gbRwee_aSw-bD_yJJv6ukDJfBkmClzv-?usp=sharing  |
 | Final Project | Artifacts                    | https://github.com/lillianxhub/network-BRNA/  |
+---
+
+---
+### Certificate
 
 
+![CCNA-_Introduction_to_Networks_certificate_kongpob-c-kkumail-com_9c791e69-81ab-45d1-8e4a-955d1e9d505b_page-0001](https://github.com/user-attachments/assets/0a1a0b19-6bc2-4509-881f-de3b382c0382)
 
 
-[CCNA-_Introduction_to_Networks_certificate_kongpob-c-kkumail-com_9c791e69-81ab-45d1-8e4a-955d1e9d505b.pdf](https://github.com/user-attachments/files/26659639/CCNA-_Introduction_to_Networks_certificate_kongpob-c-kkumail-com_9c791e69-81ab-45d1-8e4a-955d1e9d505b.pdf)
-
-
-
-[Getting_Started_with_Cisco_Packet_Tracer_certificate_kongpob-c-kkumail-com_f3b07a54-8425-414a-9b1d-0588d8f1e40c.pdf](https://github.com/user-attachments/files/26659643/Getting_Started_with_Cisco_Packet_Tracer_certificate_kongpob-c-kkumail-com_f3b07a54-8425-414a-9b1d-0588d8f1e40c.pdf)
+![Getting_Started_with_Cisco_Packet_Tracer_certificate_kongpob-c-kkumail-com_f3b07a54-8425-414a-9b1d-0588d8f1e40c_page-0001](https://github.com/user-attachments/assets/fa7ec079-38cc-4c93-bcc8-ae7e88030d6d)
 
 
 
