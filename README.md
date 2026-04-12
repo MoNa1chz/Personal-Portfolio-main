@@ -5,18 +5,11 @@
 * **ชื่อ:** นายก้องภพ โชควิริยะ
 * **รหัสนักศึกษา:** 673380030-5
 * **Section:** 2
-* **Email:** yoko.ka@kkumail.com
+* **Email:** kongpob.c.ka@kkumail.com
 
 ---
 
-## 📑 สารบัญ
-
-* Personal Assignment and Lab 5
-* Personal Labs 1-4
-* Week 1-10
-* CCNA Certificate
-* Exploring Network Certificate
-* Checkpoint Exam
+project artifact :https://github.com/lillianxhub/network-BRNA/
 
 ---
 
@@ -38,13 +31,24 @@
 
 | Category      | Work                         | Link               |
 | ------------- | ---------------------------- | ------------------ |
-| Lab           | LAB 1                        | [View Document](https://docs.google.com/document/d/1BD0ucglHol5juymGctvkk8mbbdlRHtBkWa6jldBaZgU/edit?usp=sharing) |
-| Lab           | LAB 2                        | [View Document](https://docs.google.com/document/d/12HRTbuXAedZ2DZZqIaI5pZBzowraf1kJ9VAd6ArXEqA/edit?usp=sharing) |
-| Lab           | LAB 3                        | [View Document](https://docs.google.com/document/d/1L62g2QDW9PyMZij7TzeEVbGYJHqhT6DqCXgm5TfmgQ4/edit?usp=sharing) |
-| Lab           | LAB 4                        | [View Document](https://docs.google.com/document/d/1MURDTx2FsTknknAwdjMUKIodGjyuBXNKRkQBv0g-u0M/edit?usp=sharing) |
-| Network       | New Network                  | [View Folder](https://drive.google.com/drive/folders/1SSuLKfwljsg7ERPV7OfYkcgVQwmzPfpO?usp=sharing)   |
-| Group Work    | Sprint Alpha + 1             | [View Folder](https://drive.google.com/drive/folders/188mD0YaSlokBWSbSHLmjRx0HWFoaLMUP)   |
-| Final Project | Artifacts                    | [View Folder](https://drive.google.com/drive/folders/1Csxhil65SRqoCbwAEYUj97wSz8PnP5sR?usp=sharing)   |
+| Lab           | LAB 1                        | https://docs.google.com/document/d/1GvRGnrHQ3UX6XVG-0OCz8P06ICUWjNU1855V5hjKROU/edit?usp=sharing |
+| Lab           | LAB 2                        | https://docs.google.com/document/d/1x-AHUtz5p82qQR_umFChS_jfNv_Sv5SKy6_3biYn3iY/edit?usp=sharing |
+| Lab           | LAB 3                        | https://docs.google.com/document/d/1Phhl73vM3MA3_RfHyY_pVC0qkmAwj8XUY6RXZ_6HJVA/edit?usp=sharing |
+| Lab           | LAB 4                        | https://docs.google.com/document/d/1m_Oxc-5YxfSyyw7jYeG5MnqcZE2BhTdExkYR5sHxlxw/edit?usp=sharing |
+| Network       | New Network                  | https://docs.google.com/document/d/1RlKOzi6_1D_aMJoCc1CtLWyhGcinBsCK11HxKJa_fEw/edit?usp=sharing   |
+| Group Work    | Sprint Alpha + 1             | https://drive.google.com/drive/folders/1gbRwee_aSw-bD_yJJv6ukDJfBkmClzv-?usp=sharing  |
+| Final Project | Artifacts                    | https://github.com/lillianxhub/network-BRNA/  |
+
+
+
+
+[CCNA-_Introduction_to_Networks_certificate_kongpob-c-kkumail-com_9c791e69-81ab-45d1-8e4a-955d1e9d505b.pdf](https://github.com/user-attachments/files/26659639/CCNA-_Introduction_to_Networks_certificate_kongpob-c-kkumail-com_9c791e69-81ab-45d1-8e4a-955d1e9d505b.pdf)
+
+
+
+[Getting_Started_with_Cisco_Packet_Tracer_certificate_kongpob-c-kkumail-com_f3b07a54-8425-414a-9b1d-0588d8f1e40c.pdf](https://github.com/user-attachments/files/26659643/Getting_Started_with_Cisco_Packet_Tracer_certificate_kongpob-c-kkumail-com_f3b07a54-8425-414a-9b1d-0588d8f1e40c.pdf)
+
+
 
 ---
 
