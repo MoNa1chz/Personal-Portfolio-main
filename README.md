@@ -4,8 +4,8 @@
 
 * **ชื่อ:** นายก้องภพ โชควิริยะ
 * **รหัสนักศึกษา:** 673380030-5
-* **Section:** 2
-* **Email:** kongpob.c.ka@kkumail.com
+* **Section:** 1
+* **Email:** kongpob.c.@kkumail.com
 
 ---
 
