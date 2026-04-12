@@ -1,6 +1,6 @@
 # Network Portfolio
 
-## 👤 ข้อมูลนักศึกษา
+##  ข้อมูลนักศึกษา
 
 * **ชื่อ:** นายก้องภพ โชควิริยะ
 * **รหัสนักศึกษา:** 673380030-5
@@ -13,9 +13,8 @@ project artifact :https://github.com/lillianxhub/network-BRNA/
 
 ---
 
-## 📌 รายละเอียดแต่ละส่วน
 
-### 👥 Personal Assignment and Lab 5
+###  Personal Assignment and Lab 5
 
 | Lab   | Link               |
 | ----- | ------------------ |
