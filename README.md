@@ -43,13 +43,10 @@ project artifact :https://github.com/lillianxhub/network-BRNA/
 ### Certificate
 
 
-![CCNA-_Introduction_to_Networks_certificate_kongpob-c-kkumail-com_9c791e69-81ab-45d1-8e4a-955d1e9d505b_page-0001](https://github.com/user-attachments/assets/0a1a0b19-6bc2-4509-881f-de3b382c0382)
 
+<img width="1237" height="837" alt="dd" src="https://github.com/user-attachments/assets/3f7f1471-79b0-4122-83b0-720bdffff8d8" />
+<img width="1916" height="880" alt="pp" src="https://github.com/user-attachments/assets/b5b75c98-dc0c-48af-959b-9465975b8419" />
 
-![Getting_Started_with_Cisco_Packet_Tracer_certificate_kongpob-c-kkumail-com_f3b07a54-8425-414a-9b1d-0588d8f1e40c_page-0001](https://github.com/user-attachments/assets/fa7ec079-38cc-4c93-bcc8-ae7e88030d6d)
-
-
-<img width="1898" height="670" alt="image" src="https://github.com/user-attachments/assets/000dfbed-f247-430e-b1d6-b69b614d3a45" />
 
 
 ---
